@@ -1,1 +1,3 @@
+# Disable mysql autostart under upstart.
+# This is a override file for /etc/init/mysql.conf, so put the file into /etc/init/
 manual
